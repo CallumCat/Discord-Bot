@@ -1277,9 +1277,9 @@ needle@2.4.0:
     iconv-lite "^0.4.4"
     sax "^1.2.4"
 
-netmask@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/netmask/-/netmask-1.0.6.tgz#20297e89d86f6f6400f250d9f4f6b4c1945fcd35"
+netmask@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/netmask/-/netmask-2.0.1.tgz#20297e89d86f6f6400f250d9f4f6b4c1945fcd35"
   integrity sha1-ICl+idhvb2QA8lDZ9Pa0wZRfzTU=
 
 node-environment-flags@1.0.6:
@@ -1405,7 +1405,7 @@ pac-resolver@^3.0.0:
     co "^4.6.0"
     degenerator "^1.0.4"
     ip "^1.1.5"
-    netmask "^1.0.6"
+    netmask "2.0.1"
     thunkify "^2.1.2"
 
 path-exists@^3.0.0:
