@@ -1503,7 +1503,7 @@ pm2@4.4.0:
     vizion "0.2.13"
     yamljs "0.3.0"
   optionalDependencies:
-    systeminformation "5.3.1"
+    systeminformation "5.6.4"
 
 prelude-ls@~1.1.2:
   version "1.1.2"
@@ -1917,9 +1917,9 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-systeminformation@5.3.1:
-  version "5.3.1"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.3.1.tgz#72755645a982fbb9367736518ac4e5d91f5a49e1"
+systeminformation@5.6.4:
+  version "5.6.4"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.6.4.tgz#72755645a982fbb9367736518ac4e5d91f5a49e1"
   integrity sha512-1xG+6xfKXSowtZsAlUp6jVaV0q+5rq9yUN+ds6Hp2dR3/EdEU5r0v74qi5YF8BCGZfmddiOwDNB0h7ge70fmYA==
 
 thunkify@^2.1.2:
